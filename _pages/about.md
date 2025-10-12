@@ -88,7 +88,7 @@ Pre-print
     "inter_cascade.png",
     'Not only a helper, but also a teacher: Interactive LLM Cascade. (arXiv 2025)' ,
     "Wu, Yu, Shuo Wu, Ye Tao, Yansong Li, Anand D. Sarwate.",
-    "The LLM Cascade is a paradigm that defers difficult queries from weak/cheap to strong/expensive models. To improve the cascading efficiency, we propose Inter-Cascade, an online and interactive LLM Cascade that extends the role of strong model from a backup helper to a long-term teacher. Empirically, compared with standard LLM Cascade baselines across multiple benchmarks, the Inter-Cascade significantly improves the accuracy of the weak model (by up to 33.06 absolute percentage points) and the overall system (by up to 5.53 absolute percentage points), while reducing the calls to strong models (by up to 48.05% relative reduction) and saving the corresponding fees (by up to 49.63% relative reduction). Inter-Cascade demonstrates the effective in-context knowledge transfer between LLMs, and provides a general, scalable framework applicable to both open-source and API-based LLMs.",
+    "The LLM Cascade is a paradigm that defers difficult queries from weak/cheap to strong/expensive models. To improve the cascading efficiency, we propose Inter-Cascade, an online and interactive LLM Cascade that extends the role of strong model from a backup helper to a long-term teacher.",
     "https://arxiv.org/abs/2509.22984"
   ));
 </script>
