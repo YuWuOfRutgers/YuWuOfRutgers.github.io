@@ -18,7 +18,10 @@ main:
       
 
   - title: "CV"
-    url: /files/Yu_Wu_PhD_2026_Rutgers.pdf
+    url: /files/YW_resume_20260116.pdf
+
+  - title: "中文简历"
+    url: /files/YW_resume_20260116_cn.pdf
   
   - title: "Beyond Research"
     url: /beyond-research/
